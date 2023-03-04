@@ -1,0 +1,15 @@
+W:\СhoosingSpecialization\bin\Debug\net6.0\СhoosingSpecialization.exe
+W:\СhoosingSpecialization\bin\Debug\net6.0\СhoosingSpecialization.deps.json
+W:\СhoosingSpecialization\bin\Debug\net6.0\СhoosingSpecialization.runtimeconfig.json
+W:\СhoosingSpecialization\bin\Debug\net6.0\СhoosingSpecialization.dll
+W:\СhoosingSpecialization\bin\Debug\net6.0\СhoosingSpecialization.pdb
+W:\СhoosingSpecialization\obj\Debug\net6.0\СhoosingSpecialization.csproj.AssemblyReference.cache
+W:\СhoosingSpecialization\obj\Debug\net6.0\СhoosingSpecialization.GeneratedMSBuildEditorConfig.editorconfig
+W:\СhoosingSpecialization\obj\Debug\net6.0\СhoosingSpecialization.AssemblyInfoInputs.cache
+W:\СhoosingSpecialization\obj\Debug\net6.0\СhoosingSpecialization.AssemblyInfo.cs
+W:\СhoosingSpecialization\obj\Debug\net6.0\СhoosingSpecialization.csproj.CoreCompileInputs.cache
+W:\СhoosingSpecialization\obj\Debug\net6.0\СhoosingSpecialization.dll
+W:\СhoosingSpecialization\obj\Debug\net6.0\refint\СhoosingSpecialization.dll
+W:\СhoosingSpecialization\obj\Debug\net6.0\СhoosingSpecialization.pdb
+W:\СhoosingSpecialization\obj\Debug\net6.0\СhoosingSpecialization.genruntimeconfig.cache
+W:\СhoosingSpecialization\obj\Debug\net6.0\ref\СhoosingSpecialization.dll
